@@ -58,4 +58,6 @@
 
 [![Linkedin](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/calventeramirez/)
 
-[![Correo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg)](mailto:calventeramirez@outlook.com)
+<a href="mailto:calventeramirez@outlook.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Enviar correo" width="50" height="50">
+</a>
