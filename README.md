@@ -46,7 +46,8 @@
 - <a href="https://github.com/calventeramirez/PharmacyApp">**⚕️PharmacyApp**</a>
   <br>
   <p>Proyecto de desarrollo de una aplicación web diseñada para farmacias, con funcionalidades clave como:</p>
-  <ul>Autenticación de usuarios: Registro y login seguros para acceder al sistema.
+  <ul>
+    <li>Autenticación de usuarios: Registro y login seguros para acceder al sistema.</li>
     <li>Dashboard intuitivo: Panel principal sencillo y fácil de usar para gestionar las opciones disponibles.</li>
     <li>Gestión de productos: Carga dinámica desde la base de datos y visualización de productos detallada.</li>
     <li>Compras en línea: Carrito de compras funcional para seleccionar productos y completar pedidos.</li>
