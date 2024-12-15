@@ -17,7 +17,7 @@
 </p>
 
 ### Back-End
-<p style="gap:2rem">
+<p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Logo PHP" width="50" height="50"/> <!-- PHP -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Logo Node" width="50" height="50"/> <!-- Nodejs -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" alt="Logo MySQL" width="50" height="50"/> <!-- MySQL -->
@@ -28,5 +28,7 @@
 
 ### Otros Lenguajes
 <p>
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="Logo C" width="50" height="50"/> <!-- C -->
+    <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Logo Java" width="50" height="50"/> <!-- Java -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo Python" width="50" height="50"/> <!-- Python -->
 </p>
