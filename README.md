@@ -56,7 +56,7 @@
 
 ## Contacto
 
-<a href="https://www.linkedin.com/in/calventeramirez/">
+<a href="https://www.linkedin.com/in/calventeramirez/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" width="50" height="50">
 </a>
 <a href="mailto:calventeramirez@outlook.com">
