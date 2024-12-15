@@ -15,3 +15,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Astro.svg" alt="Logo Astro" width="50" height="50"/> <!-- Astro -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Logo Bootstrap" width="50" height="50"/> <!-- Bootstrap -->
 </p>
+
+### Back-End
+<p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Logo PHP" width="50" height="50"/> <!-- PHP -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Logo Node" width="50" height="50"/> <!-- Nodejs -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" alt="Logo MySQL" width="50" height="50"/> <!-- MySQL -->
+    <img src="https://upload.wikimedia.org/wikipedia/fr/6/68/Oracle_SQL_Developer_logo.svg" alt="Logo Oracle" width="50" height="50"/> <!-- Oracle -->
+    <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="Logo docker" width="50" height="50"/> <!-- DOCKER -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" alt="Logo Apache" width="50" height="50"/> <!-- Apache -->
+</p>
