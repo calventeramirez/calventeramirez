@@ -53,3 +53,7 @@
     <li>Compras en línea: Carrito de compras funcional para seleccionar productos y completar pedidos.</li>
     <li>Esta aplicación combina diseño funcional y tecnología eficiente para ofrecer una experiencia de usuario fluida.</li>
   </ul>
+
+## Contacto
+- <a href="https://www.linkedin.com/in/calventeramirez/"><img href="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Logo Linkedin" width="50" height="50"/></a>
+- <a href="calventeramirez@outlook.com"><img href="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Logo Correo" width="50" height="50"/></a>
