@@ -55,5 +55,7 @@
   </ul>
 
 ## Contacto
-- <a href="https://www.linkedin.com/in/calventeramirez/"><img href="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Logo Linkedin" width="50" height="50"/></a>
-- <a href="calventeramirez@outlook.com"><img href="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Logo Correo" width="50" height="50"/></a>
+
+[![Linkedin](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/calventeramirez/)
+
+[![Correo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg)](mailto:calventeramirez@outlook.com)
