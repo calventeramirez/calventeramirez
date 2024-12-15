@@ -32,3 +32,11 @@
     <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Logo Java" width="50" height="50"/> <!-- Java -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo Python" width="50" height="50"/> <!-- Python -->
 </p>
+
+### Herramientas
+<p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Logo Git" width="50" height="50"/> <!-- Git -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Logo VSC" width="50" height="50"/> <!-- VSC -->
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Logo Postman" width="50" height="50"/> <!-- Postman -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="Logo AWS" width="50" height="50"/> <!-- AWS -->
+</p>
