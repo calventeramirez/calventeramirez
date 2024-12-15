@@ -40,3 +40,14 @@
     <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Logo Postman" width="50" height="50"/> <!-- Postman -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="Logo AWS" width="50" height="50"/> <!-- AWS -->
 </p>
+
+## Proyectos destacados
+
+- <a href="https://github.com/calventeramirez/PharmacyApp">**⚕️PharmacyApp**</a>
+  <br>
+  <p>Proyecto de desarrollo de una aplicación web diseñada para farmacias, con funcionalidades clave como:</p>
+  <p>Autenticación de usuarios: Registro y login seguros para acceder al sistema.
+Dashboard intuitivo: Panel principal sencillo y fácil de usar para gestionar las opciones disponibles.
+Gestión de productos: Carga dinámica desde la base de datos y visualización de productos detallada.
+Compras en línea: Carrito de compras funcional para seleccionar productos y completar pedidos.
+Esta aplicación combina diseño funcional y tecnología eficiente para ofrecer una experiencia de usuario fluida.</p>
