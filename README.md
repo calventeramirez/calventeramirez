@@ -56,7 +56,6 @@
 
 ## Contacto
 
-[![Linkedin](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/calventeramirez/)
 <a href="https://www.linkedin.com/in/calventeramirez/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" width="50" height="50">
 </a>
