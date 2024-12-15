@@ -6,5 +6,5 @@
 ## Tecnolgías que uso
 ### Front-End
 <p> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Logo HTML5" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="Logo HTML5" width="50" height="50"/>
 </p>
