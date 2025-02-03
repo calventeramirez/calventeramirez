@@ -22,7 +22,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Logo Node" width="50" height="50"/> <!-- Nodejs -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" alt="Logo MySQL" width="50" height="50"/> <!-- MySQL -->
     <img src="https://upload.wikimedia.org/wikipedia/fr/6/68/Oracle_SQL_Developer_logo.svg" alt="Logo Oracle" width="50" height="50"/> <!-- Oracle -->
-    <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="Logo docker" width="50" height="50"/> <!-- DOCKER -->
+    <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Logo docker" width="50" height="50"/> <!-- DOCKER -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Feather_Logo.svg" alt="Logo Apache" width="50" height="50"/> <!-- Apache -->
 </p>
 
