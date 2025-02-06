@@ -1,5 +1,5 @@
 # Hola mi nombre es Pablo Calvente👋
-¡Hola!👋 Soy Pablo, desarrollador Full Stack Junior. Soy un apasionado de la tecnología y me encanta aprender nuevos lenguajes. Tengo 30 años y estoy para seguir aprendiendo y creciendo en el mundo profesional.
+¡Hola!👋 Soy Pablo, desarrollador Full Stack Developer. Soy un apasionado de la tecnología y me encanta aprender nuevos lenguajes. Tengo 31 años y estoy para seguir aprendiendo y creciendo en el mundo profesional.
 
 ![GitHub Viewers](https://komarev.com/ghpvc/?username=calventeramirez&style=for-the-badge&label=Visitas)
 
@@ -14,11 +14,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Logo REACT" width="50" height="50"/> <!-- REACT -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Astro.svg" alt="Logo Astro" width="50" height="50"/> <!-- Astro -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Logo Bootstrap" width="50" height="50"/> <!-- Bootstrap -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png" alt="Logo Tailwind" width="50" /> <!-- TailwindCSS -->
 </p>
 
 ### Back-End
 <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Logo PHP" width="50" height="50"/> <!-- PHP -->
+    <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" alt="Logo Laravel" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Logo Node" width="50" height="50"/> <!-- Nodejs -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" alt="Logo MySQL" width="50" height="50"/> <!-- MySQL -->
     <img src="https://upload.wikimedia.org/wikipedia/fr/6/68/Oracle_SQL_Developer_logo.svg" alt="Logo Oracle" width="50" height="50"/> <!-- Oracle -->
@@ -53,6 +55,23 @@
     <li>Compras en línea: Carrito de compras funcional para seleccionar productos y completar pedidos.</li>
     <li>Esta aplicación combina diseño funcional y tecnología eficiente para ofrecer una experiencia de usuario fluida.</li>
   </ul>
+
+  <hr />
+  <br />
+
+  <a href="https://github.com/calventeramirez/GifsApp">**🖼️GifsAPP**</a>
+  <br>
+  <p>GifsApp es una aplicación moderna e intuitiva que utiliza una API para buscar y mostrar GIFs en tiempo real. Permite a los usuarios explorar, buscar y compartir contenido animado de forma rápida y sencilla, con una interfaz amigable y categorizada para una experiencia visual dinámica.</p>
+
+  <hr />
+  <br />
+
+  <a href="https://github.com/calventeramirez/heroesApp">**🦸HeroesApp Angular**</a>
+  <br>
+  <p>HeroesApp es una aplicación dinámica que presenta un listado de superhéroes en tarjetas visuales. Permite a los usuarios realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) de forma intuitiva, ideal para gestionar y personalizar tu colección de héroes favoritos.</p>
+
+  <hr />
+  <br />
 
 ## Contacto
 
