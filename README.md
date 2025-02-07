@@ -81,3 +81,7 @@
 <a href="mailto:calventeramirez@outlook.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Enviar correo" width="50" height="50">
 </a>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=calventeramirez&theme=darcula)  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=calventeramirez&theme=darcula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calventeramirez&theme=darcula)
